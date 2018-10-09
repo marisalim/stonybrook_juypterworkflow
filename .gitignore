@@ -105,3 +105,6 @@ venv.bak/
 
 # data
 Fremont.csv
+
+# live syncing stuff
+test_notebook_bike_analysis.html
